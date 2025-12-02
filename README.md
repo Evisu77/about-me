@@ -1,24 +1,5 @@
-# 👋 Hello, I'm Quasim!
+Quasim Ashiru (also known as Richolo) is a Cybersecurity Analyst, Penetration Tester and Incident Responder from Lagos, Nigeria, specializing in API security, web application security and mobile app security. He also freelances in vulnerability assessment, ethical hacking, and responsible disclosure.
 
-I'm a curious and detail oriented person with a passion for learning new things. Professionally, I'm focused on **cybersecurity**. I specialize in penetration testing, incident responding and web apllication security but beyond that, I enjoy problem-solving, working with people and constantly challenging myself to grow.
+Quasim is skilled in web and API testing, reconnaissance, vulnerability enumeration, iOS app analysis and security research using tools such as Burp Suite, OWASP ZAP, Wireshark, iMazing, and exiftool. He creates cybersecurity awareness content across LinkedIn, Facebook, and TikTok (@cyber_go_sec), where he teaches security best practices and helps beginners understand cyber threats.
 
-## 🚀 About Me
-- 🔐 **Cybersecurity Enthusiast**—I love uncovering vulnerabilities and learning how to protect systems.
-- 🌱 Always learning new skills, especially **tech-related and creative** ones.
-- 🛠 Currently studying **API security**, diving into the **OWASP API Security Top 10** through **APIsec University** and hands-on labs on **TryHackMe**.
-- 💡 Enjoy explaining complex topics in a simple way—happy to help others learn!
-
-## 💬 Ask Me About
-- Common **cybersecurity vulnerabilities** and **attack techniques**.
-- How to **protect systems** from threats.
-- Using **Kali Linux** for **penetration testing and ethical hacking**.
-  
-## 📫 Connect With Me  
-Feel free to reach out—I love discussing cybersecurity and sharing insights!  
-- **LinkedIn:** www.linkedin.com/in/quasim-ashiru-81466a138
-- **TikTok:** Richolo.77 
-
-## ⚡ Fun Fact  
-I learned to use **Kali Linux** before I ever wrote my first resume—I just really enjoy digging into systems and figuring things out.
-
-Thanks for stopping by! Feel free to check out my projects and connect. 🚀
+He is pursuing a B.Sc in Computer Science at the National Open University of Nigeria (NOUN) and holds certifications including a Diploma in Ethical Hacking (Alison), Cybersecurity & Pentesting (Digital World Tech Academy) and API Authentication (APIsec University). Quasim is also the founder of Richolo_Official, an urban fashion brand. He is recognized for his hands-on learning, responsible disclosure ethics, and commitment to helping individuals and organizations strengthen their security posture.
